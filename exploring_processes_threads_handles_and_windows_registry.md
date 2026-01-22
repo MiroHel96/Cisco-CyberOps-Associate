@@ -43,6 +43,12 @@ As threads example I opened cmd from Windows and from Process Explorer `conhost.
 # Exploring Handles 
 
 
+<img width="1436" height="987" alt="Screenshot 2026-01-22 130316" src="https://github.com/user-attachments/assets/8a3a12c6-179e-4406-bd20-30261a08e62d" />
+
+
+<img width="1432" height="802" alt="image" src="https://github.com/user-attachments/assets/561d4937-feb7-4ef1-b37c-db2957c2a886" />
+
+
 # Exploring Windows Registry
 
 
