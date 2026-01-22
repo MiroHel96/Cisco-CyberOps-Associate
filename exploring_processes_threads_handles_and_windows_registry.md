@@ -34,5 +34,19 @@ Finally I killed the cmd.exe process
 
 # Exploring Threads and Handles
 
+As threads example I opened cmd from Windows and from Process Explorer `conhost.exe` properties and `threads` -tab from there. 
+
+<img width="956" height="1190" alt="image" src="https://github.com/user-attachments/assets/e3c8045b-81ec-4572-af97-b44d384eb156" />
+
+<img width="954" height="1194" alt="image" src="https://github.com/user-attachments/assets/1a08c05b-5026-4814-a452-2fb76122d499" />
+
+# Exploring Handles 
+
+
+# Exploring Windows Registry
+
+
+
+
 
 
