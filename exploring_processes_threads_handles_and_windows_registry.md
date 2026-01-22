@@ -13,3 +13,10 @@ Clicking riht mouse on the wanted process allows you to kill the process
 
 <img width="1568" height="1173" alt="Screenshot 2026-01-22 123315" src="https://github.com/user-attachments/assets/63d25809-9aaf-4303-8d8d-599158a5531c" />
 
+### Command Promt ping test 
+
+Next I opened CMD and chose it from Process Explorer. As we can see cmd.exe has a child process conhost.exe
+
+<img width="1452" height="1166" alt="image" src="https://github.com/user-attachments/assets/38d0431d-edc2-4bc2-ad79-d320d311589c" />
+
+
