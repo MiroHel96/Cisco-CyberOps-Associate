@@ -6,5 +6,10 @@ It is a program that displays a list of currently running processes. As an examp
 
 <img width="1570" height="1174" alt="image" src="https://github.com/user-attachments/assets/36da3878-0b7a-41bc-b2ad-3a0fce3cb591" />
 
+### Killing the process 
 
+Clicking riht mouse on the wanted process allows you to kill the process
+
+
+<img width="1568" height="1173" alt="Screenshot 2026-01-22 123315" src="https://github.com/user-attachments/assets/63d25809-9aaf-4303-8d8d-599158a5531c" />
 
