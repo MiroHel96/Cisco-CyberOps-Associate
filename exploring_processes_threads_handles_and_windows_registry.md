@@ -31,3 +31,8 @@ Finally I killed the cmd.exe process
 
 <img width="1459" height="1180" alt="Screenshot 2026-01-22 124645" src="https://github.com/user-attachments/assets/b024b14c-246b-4fcd-a835-fa82ea5704a4" />
 
+
+# Exploring Threads and Handles
+
+
+
