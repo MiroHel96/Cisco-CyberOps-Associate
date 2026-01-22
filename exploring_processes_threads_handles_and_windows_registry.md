@@ -26,3 +26,8 @@ As we can see there appears a PING.EXE process when performing a ping test from 
 <img width="1446" height="1164" alt="image" src="https://github.com/user-attachments/assets/4bf88e3f-62fd-4095-8775-0891f620a563" />
 
 <img width="1395" height="734" alt="image" src="https://github.com/user-attachments/assets/435b1a75-8d2f-412c-918a-a4e3a3c00a9d" />
+
+Finally I killed the cmd.exe process 
+
+<img width="1459" height="1180" alt="Screenshot 2026-01-22 124645" src="https://github.com/user-attachments/assets/b024b14c-246b-4fcd-a835-fa82ea5704a4" />
+
