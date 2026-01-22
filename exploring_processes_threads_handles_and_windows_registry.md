@@ -19,4 +19,10 @@ Next I opened CMD and chose it from Process Explorer. As we can see cmd.exe has 
 
 <img width="1452" height="1166" alt="image" src="https://github.com/user-attachments/assets/38d0431d-edc2-4bc2-ad79-d320d311589c" />
 
+### Doing a ping test
 
+As we can see there appears a PING.EXE process when performing a ping test from the cmd.
+
+<img width="1446" height="1164" alt="image" src="https://github.com/user-attachments/assets/4bf88e3f-62fd-4095-8775-0891f620a563" />
+
+<img width="1395" height="734" alt="image" src="https://github.com/user-attachments/assets/435b1a75-8d2f-412c-918a-a4e3a3c00a9d" />
